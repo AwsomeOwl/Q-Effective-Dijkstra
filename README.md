@@ -9,7 +9,7 @@
 
 Южно-Уральский государственный университет (национальный исследовательский университет), Высшая школа электроники и компьютерных наук, Кафедра системного программирования.
 
-This repository contains effective programs with complete the parallelism resource of the Dijkstra algorithm and implement this algorithm using OpenMP technology for shared memory, as well as OpenMP and MPI for distributed memory. The repository also contains a sequential program for comparing the dynamic characteristics of these programs. The programs are developed in C++.
+This repository contains effective programs with complete the parallelism resource of the Dijkstra algorithm and implement this algorithm using OpenMP technology for parallel computing systems with shared memory, as well as OpenMP and MPI for parallel computing systems with distributed memory. The repository also contains a sequential program for comparing the dynamic characteristics of these programs. The programs are developed in C++.
 
 Designed for research work, the purpose of which is to develop effective parallel programs using the concept of a Q-determinant.
 
