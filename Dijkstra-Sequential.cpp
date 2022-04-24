@@ -1,4 +1,4 @@
-// Manatin Pavel, South Ural State University 
+// Pavel Manatin, South Ural State University 
 // 2022
 #include <vector>
 #include <omp.h>
