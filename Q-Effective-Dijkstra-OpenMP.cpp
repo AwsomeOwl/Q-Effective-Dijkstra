@@ -1,4 +1,5 @@
-﻿// Манатин Павел, 2022
+// Manatin Pavel, South Ural State University 
+// 2022
 #include <vector>
 #include <omp.h>
 #include <time.h>
