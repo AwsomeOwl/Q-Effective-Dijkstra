@@ -11,7 +11,7 @@
 
 This repository contains effective programs with complete the parallelism resource of the Dijkstra algorithm and implement this algorithm using OpenMP technology for shared memory, as well as OpenMP and MPI for distributed memory. The repository also contains a sequential program for comparing the dynamic characteristics of these programs. The programs are developed in C++.
 
-Developed within the framework of a scientific research work, the purpose of which is to design effective parallel programs using the Q-determinant concept.
+Designed for research work, the purpose of which is to develop effective parallel programs using the concept of Q-determinant.
 
 Author: Pavel Manatin
 
